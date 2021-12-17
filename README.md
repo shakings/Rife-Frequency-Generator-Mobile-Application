@@ -17,5 +17,5 @@ The biggest risk involved with Rife machines and other alternative treatments, l
 
 
 # Contact
-Development of the Open Rife-Frequency-Generator Project is facilitated by AppStackSA.
-Contact Stephen on stephen@appstacksa.co.za if you'd like to get involved in the project or if you have questions about the project or the organization.
+Development of the Open Rife-Frequency-Generator Project is facilitated by myself.
+Contact Stephen on shakings@hotmail.co.za if you'd like to get involved in the project or if you have questions about the project or the organization.
