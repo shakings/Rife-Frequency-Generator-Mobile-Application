@@ -16,5 +16,10 @@ Rife machines and similar devices likely don’t pose any major health risks. Th
 The biggest risk involved with Rife machines and other alternative treatments, like hydrogen peroxide, comes from delaying more effective medical treatments like chemotherapy. In 1997, a man died four months after he started using a Rife machine instead of chemotherapy to treat his cancer. In 2004, a 32-year-old man died from testicular cancer after he refused surgery in favor of using a Rife machine. The owners of the health clinic that sold him the device were sentenced in Federal court for fraud. The open source solution is for research and development purposes only.
 
 
-![image](https://user-images.githubusercontent.com/4200022/146587785-a79402e7-a68f-48e2-8008-617ce6056efb.png)
+# Rife-Frequency-Generator API Solution Overview
 
+![image](https://user-images.githubusercontent.com/4200022/146587986-90f1402f-3eaf-45b3-9b75-05c70a52de51.png)
+
+# Contact
+Development of the Open Rife-Frequency-Generator Project is facilitated by AppStackSA.
+Contact Stephen on stephen@appstacksa.co.za if you'd like to get involved in the project or if you have questions about the project or the organization.
