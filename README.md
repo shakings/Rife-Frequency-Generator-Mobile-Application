@@ -14,3 +14,7 @@ But, researchers recently started experimenting with radiofrequency EMFs to trea
 Rife machines and similar devices likely don’t pose any major health risks. This is because the energy waves they use have a very low frequency. The frequency is lower than that of waves emitted by cell phones. But there have been accounts of shocks and skin rashes associated with Rife machines.
 
 The biggest risk involved with Rife machines and other alternative treatments, like hydrogen peroxide, comes from delaying more effective medical treatments like chemotherapy. In 1997, a man died four months after he started using a Rife machine instead of chemotherapy to treat his cancer. In 2004, a 32-year-old man died from testicular cancer after he refused surgery in favor of using a Rife machine. The owners of the health clinic that sold him the device were sentenced in Federal court for fraud. The open source solution is for research and development purposes only.
+
+
+![image](https://user-images.githubusercontent.com/4200022/146587785-a79402e7-a68f-48e2-8008-617ce6056efb.png)
+
