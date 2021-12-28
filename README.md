@@ -19,3 +19,7 @@ The biggest risk involved with Rife machines and other alternative treatments, l
 # Contact
 Development of the Open Rife-Frequency-Generator Project is facilitated by myself.
 Contact Stephen on shakings@hotmail.co.za if you'd like to get involved in the project or if you have questions about the project.
+
+# Overview Diagram
+
+![image](https://user-images.githubusercontent.com/4200022/147558408-c8b74699-55eb-4e06-b5f2-6dde614b46e4.png)
