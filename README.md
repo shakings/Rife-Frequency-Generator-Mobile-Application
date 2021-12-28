@@ -35,3 +35,6 @@ ExpressJS: A framework layered on top of NodeJS, used to build the backend of a 
 Vue JS: VueJS is referred to as a client-side framework and is especially used in front-end web development. It has two-way data binding that allows seamless frontend development along with MVC capability and interactive server-side applications.
 
 NodeJS: The JavaScript runtime environment. It is used to run JavaScript on a machine rather than in a browser. 
+
+![image](https://user-images.githubusercontent.com/4200022/147559105-11999854-f9e7-4b3d-b23e-122857322eda.png)
+
